@@ -1,9 +1,4 @@
 
-<Version: 1.01>
-
-<End of Version>
-
-
 <Version: 1.02>
 /data/test.jpg https://sz.btfs.mail.ftn.qq.com/ftn_handler/502a33d75aef74c35b0bd2ed65bbced7d54ed04a37e93d3af7c8c546830927180713d4299fd4a86e9e7fcf4424cfeb1d966516030c72f73930c0f3d5d8701d91?compressed=0&dtype=1&fname=timg.jpg
 <End of Version>
